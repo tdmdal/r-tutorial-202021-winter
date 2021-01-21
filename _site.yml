@@ -1,0 +1,13 @@
+name: "TDMDAL Workshop"
+output_dir: "docs"
+include: ["*.pdf", "*.R", "_part3_visualization.Rmd", "_part4_timeseries_finance_pkg.Rmd"]
+exclude: ["*.pptx", "*.docx"]
+navbar:
+  title: "Intro to R - Winter 2021"
+  right:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate

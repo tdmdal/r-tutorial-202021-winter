@@ -1,0 +1,49 @@
+---
+title: "Introduction to R"
+---
+
+R is an open-source programming language for statistical computing and graphics. R is extensible, and has a large collection of high-quality user contributed packages that makes data analysis easy for beginners. This mini-course will introduce you the fundamentals of R programming with a focus on data management, data visualization and quantitative finance applications in R.
+
+---
+
+#### What To Prepare
+
+Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the first session. If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser.
+
+---
+
+#### Session 1 (Overview)
+
+Coming soon.
+
+---
+    
+#### Free Resources
+
+* R Programming
+    * [Hands-on Programming with R](https://rstudio-education.github.io/hopr/) (for absolute beginners, i.e., if you have never programmed before)
+    * [R for Data Science](https://r4ds.had.co.nz/) (learn how to manipulate, analyze and visualize data using R’s Tidyverse packages)
+    * [Advanced R](https://adv-r.hadley.nz/) (if you plan to be really good at R)
+    * [R Graphics Cookbook](https://r-graphics.org/)
+    * [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org/)
+    * [The R Graph Gallery](https://www.r-graph-gallery.com/) (R graph samples with code)
+    * [R Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/) (cheat sheets for many popular R packages)
+
+    
+* R for Empirical Analysis
+    * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+    * [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
+    * [Financial Engineering Analytics: A Practice Manual Using R](https://bookdown.org/wfoote01/faur/)
+
+* R and Machine Learning
+    * [An Introduction to Statistical Learning / with Applications in R](https://statlearning.com/index.html) (you can download the book and its R code)
+    * [R Interface to Tensorflow](https://tensorflow.rstudio.com/) (deep learning in R)
+        
+* Other Tutorials on Econometrics & Statistics using R
+    * [A Short R Tutorial](https://data.princeton.edu/R) by Germán Rodríguez
+    * [Introductory Econometrics Examples](https://justinmshea.github.io/wooldridge/articles/Introductory-Econometrics-Examples.html) (data and examples from Wooldridge)
+    * [STAT545](https://stat545.com/) by [Jenny Bryan](https://jennybryan.org/) : Data wrangling, exploration, and analysis with R
+
+---
+
+Back to [TDMDAL Computing Page](https://tdmdal.github.io/)
