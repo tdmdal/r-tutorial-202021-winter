@@ -8,7 +8,7 @@ R is an open-source programming language for statistical computing and graphics.
 
 #### What To Prepare
 
-Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the first session. If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser. An alternative to RStudio Cloud is the new UofT [JupyterHub/RStudio](https://jupyter.utoronto.ca/hub/login) system. After opening its home page, simply choose the *RStudio* option and click "*Log in to start*". You will need your UTORid to login. Currently, the UofT JupyterHub/RStudio service is a proof-of-concept installation so it is possible that you experience some minor issues.
+Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the first session. If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser. An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to its [home page](https://jupyter.utoronto.ca/hub/login), choose the *RStudio* option, and click "*Log in to start*". You will need your UTORid to login. Currently, the UofT JupyterHub/RStudio service is a proof-of-concept installation so it is possible that you experience some minor issues.
 
 ---
 
