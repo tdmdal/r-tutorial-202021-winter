@@ -36,7 +36,7 @@ Coming soon.
     * [Financial Engineering Analytics: A Practice Manual Using R](https://bookdown.org/wfoote01/faur/)
 
 * R and Machine Learning
-    * [An Introduction to Statistical Learning / with Applications in R](https://statlearning.com/index.html) (you can download the book and its R code)
+    * [An Introduction to Statistical Learning / with Applications in R](https://www.statlearning.com/) (you can download the book and its R code)
     * [R Interface to Tensorflow](https://tensorflow.rstudio.com/) (deep learning in R)
         
 * Other Tutorials on Econometrics & Statistics using R
