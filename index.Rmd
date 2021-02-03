@@ -8,13 +8,34 @@ R is an open-source programming language for statistical computing and graphics.
 
 #### What To Prepare
 
-Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the first session. If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser. An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to its [home page](https://jupyter.utoronto.ca/hub/login), choose the *RStudio* option, and click "*Log in to start*". You will need your UTORid to login. Currently, the UofT JupyterHub/RStudio service is a proof-of-concept installation so it is possible that you experience some minor issues.
+Please install [R](https://www.r-project.org/) and [RStudio Desktop](https://rstudio.com/products/rstudio/download/) before the first session. If you encounter technical difficulties installing the software, you can instead create a free [RStudio Cloud](https://rstudio.cloud/) account so you can run R in the cloud via your browser.
+
+An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to its [home page](https://jupyter.utoronto.ca/hub/login), choose the *RStudio* option, and click "*Log in to start*". You will need your UTORid to login. Currently, the UofT JupyterHub/RStudio service is a proof-of-concept installation so it is possible that you experience some minor issues.
 
 ---
 
 #### Session 1 (Overview)
 
-Coming soon.
+* [Slides](r_intro.pdf)
+* Code
+    * Motivation Examples
+        * Housing prices and clean air (R script: [r1_simple_regression_housing.R](r1_simple_regression_housing.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-202021-winter/blob/master/docs/rn1_A_Simple_Regression_Housing.ipynb))
+        * Analyze portfolio performance (R Script: [performance_analysis.R](performance_analysis.R))
+        * Look for trends in R community through Twitter (R script: [twitter_example.R](twitter_example.R); Hashtag [#rstat](https://twitter.com/hashtag/rstat) and its [Word Cloud](twitter_word_cloud.html))
+        * Recognize handwritten digits, a deep learning ["Hello World" example](https://tensorflow.rstudio.com/tutorials/beginners/) (R script: [dl_hello_world.R](dl_hello_world.R))
+    * Data and Programming Structures (R script: [r2_data_and_programming_structures.R](r2_data_and_programming_structures.R); R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-202021-winter/blob/master/docs/rn2_Data_and_Programming_Structures.ipynb))
+    * Extending the simple regression example (R script: [r3_data_manipulation_modelling_report_housing.R](r3_data_manipulation_modelling_report_housing.R))
+        * Data Import
+        * Data Manipulation
+        * Modelling
+        * Report ([sample regression report](result.html))
+
+* Extra materials containing more details on data and programming structures (Optional)
+    * Data structures
+        * [Vectors](extra_material/part1_1_vector.html)
+        * [Derived data structures](extra_material/part1_2_derived_ds.html)
+    * [Programming structures](extra_material/part1_3_function.html)
+
 
 ---
     
