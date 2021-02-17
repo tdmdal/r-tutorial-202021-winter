@@ -36,9 +36,16 @@ An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to
         * [Derived data structures](extra_material/part1_2_derived_ds.html)
     * [Programming structures](extra_material/part1_3_function.html)
 
+---
+
+#### Session 2 (Data Manipulation)
+
+* [Slides](r_data_manipulation.pdf)
+* Code
+    * Data Manipulation (R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/part2_data_manipulation.ipynb))
 
 ---
-    
+
 #### Free Resources
 
 * R Programming
