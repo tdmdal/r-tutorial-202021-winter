@@ -51,6 +51,19 @@ An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to
 
 ---
 
+#### Session 3 (Visualization)
+
+* [Slides](r_visualization.pdf)
+* Code
+    * Visualization: [ggplot](https://ggplot2.tidyverse.org/index.html)
+        * R notebook: [![](colab-badge.svg)](https://colab.research.google.com/github/tdmdal/r-tutorial-201920-winter/blob/master/docs/part3_visualization.ipynb)
+        * R markdown: [_part3_visualization.Rmd](_part3_visualization.Rmd) (Load this file in RStudio. Let's take this opportunity to learn about [R Markdown](https://rmarkdown.rstudio.com/lesson-1.html).)
+    * Visualization: [tidyquant charting](https://business-science.github.io/tidyquant/articles/TQ04-charting-with-tidyquant.html), [dygraph](https://rstudio.github.io/dygraphs/), and R markdown [flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/)
+        * R script: [finance_charting.R](finance_charting.R)
+        * R markdown: [_time_series_flexboard.Rmd](_time_series_flexboard.Rmd) (Load this file in RStudio; HTML output: [time_series_flexboard.html](time_series_flexboard.html))
+
+---
+
 #### Free Resources
 
 * R Programming
