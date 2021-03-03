@@ -64,6 +64,17 @@ An alternative to RStudio Cloud is the new UofT JupyterHub/RStudio system. Go to
 
 ---
 
+#### Session 4 (Tidymodels, Time Series and Some R Finance Packages)
+
+I inserted a *Intro to Tidymodels* R markdown notebook (optional). Some of you are currently working on industry projects using R and machine learning. The Tidymodels framework could be useful for your projects.
+
+* [Slides](r_timeseries_finance_pkgs.pdf)
+* Code
+    * Tidymodels (optional; R markdown: [tidymodels_intro.Rmd](tidymodels_intro.Rmd); HTML: [tidymodels_intro.html](tidymodels_intro.html))
+    * Time series and finance packages (R markdown: [part4_timeseries_finance_pkg.Rmd](part4_timeseries_finance_pkg.Rmd); HTML: [part4_timeseries_finance_pkg.html](part4_timeseries_finance_pkg.html))
+
+---
+
 #### Free Resources
 
 * R Programming
